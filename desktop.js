@@ -88,7 +88,6 @@ server.post('/deleteAccEmail', async (req, res) => {
  html: `
  <p>
  Hello,
-TODD: An Interactive Teacher-Parent… 83
  We received a request to delete your account. If you did not make this request, 
 please ignore this email and ensure that your account is secure.
  If you would like to proceed with deleting your account, please click the link below to confirm 
